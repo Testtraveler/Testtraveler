@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm **Testtraveler**, a passionate developer who l
 - 💬 **Ask me about**: Python, C/C++
 - 📫 **How to reach me**: liaomoumou0613@outlook.com
 - 😄 **Pronouns**: He/Him
-- ⚡ **Fun fact**: I do addicted to writing the blogs!!!
+- ⚡ **Fun fact**: I do addicted to writing the blogs!!!And I do love my cat!
 
 ## My Projects
 
